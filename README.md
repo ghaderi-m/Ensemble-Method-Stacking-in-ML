@@ -6,5 +6,5 @@ Implements an ensemble method: Stacking.
 - Demonstrates the effectiveness of stacking in combining the strengths of multiple classifiers to enhance predictive
 performance.
 
-trains a neural network and a decision tree first, and then uses their predictions as input to a second classifier: Logistic Regression.
+Trains a neural network and a decision tree first, and then uses their predictions as input to a second classifier: Logistic Regression.
 Initialized a decision tree, setting maximum depth to 2 and using the default splitting criterion.
